@@ -1,3 +1,5 @@
+#O intuito do programa é entender como transformar tipos de variáveis.
+
 #Programa da maneira 1
 
 

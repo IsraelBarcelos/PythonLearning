@@ -1,3 +1,5 @@
+#O intuito do programa é descobrir métodos de strings.
+
 var = input("digite algo")
 print(type(var))
 print(var.isalnum())
